@@ -1,4 +1,4 @@
-# Movie Journal App
+# R Movie Journal App
 
 The **Movie Journal App** is a Django-based application that allows movie enthusiasts to log, review, and organize their cinematic experiences. The backend is fully functional, and plans are underway to integrate a React-based frontend to enhance user interaction.
 
