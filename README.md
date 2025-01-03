@@ -14,7 +14,7 @@ The **Movie Journal App** is a Django-based application that allows movie enthus
 ## Tech Stack
 
 ### Backend:
-- **Django**: For robust and scalable backend functionality.
+- **Django/DRF**: For robust and scalable backend functionality.
 - **SQLite**: Default database for development (can be replaced with PostgreSQL or another database for production).
 - **APIs**: Integrates with external movie databases (OMDB).
 
