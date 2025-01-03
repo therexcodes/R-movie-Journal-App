@@ -1,0 +1,4 @@
+# Virtual environment
+ENV/
+# Other common files to ignore
+__pycache__/
